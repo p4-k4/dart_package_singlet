@@ -1,5 +1,7 @@
 # singlet
 
+<img src="assets/images/singlet.webp" alt="singlet logo" width="200"/>
+
 A Dart package that provides macros to help you avoid feeling like you're wearing the same old code over and over again. This package offers a simple way to create singleton classes, ensuring you always have just one instance when you need it. Because sometimes, one is really all you need.
 
 ## Features
