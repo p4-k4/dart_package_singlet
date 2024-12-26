@@ -1,0 +1,20 @@
+name: singlet
+description: For when you need just one. This package provides Dart macros to easily create singleton classes, ensuring you're not caught wearing the same instance twice.
+version: 1.0.0
+repository: https://github.com/p4-k4/dart_package_singlet
+homepage: https://github.com/p4-k4/dart_package_singlet
+publish_to: none
+topics:
+  - macro
+  - singleton
+  - code-generation
+
+environment:
+  sdk: ^3.6.0-334.4.beta
+
+dependencies:
+  macros: ^0.1.3-main.0
+
+dev_dependencies:
+  lints: ^5.0.0
+  test: ^1.24.0
